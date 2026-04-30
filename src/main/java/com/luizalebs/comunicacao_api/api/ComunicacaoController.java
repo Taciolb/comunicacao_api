@@ -31,3 +31,4 @@ public class ComunicacaoController {
         return ResponseEntity.ok(service.alterarStatusComunicacao(emailDestinatario));
     }
 }
+
